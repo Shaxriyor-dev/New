@@ -1,0 +1,298 @@
+header {
+  border-radius: 0px 0px 64px 64px;
+}
+
+nav {
+  display: flex;
+  padding: 20px 60px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  gap: 60px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+a {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.btn {
+  height: 40px;
+  width: 180px;
+}
+
+.asus {
+  height: 50px;
+  width: 53px;
+  border-radius: 50%;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.like {
+  color: #fff;
+  width: 87px;
+  font-size: 14px;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.text-q {
+  font-size: 53px;
+  color: #fff;
+  font-weight: 600;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.btn1 {
+  padding: 25px 70px;
+  background: #7B61FF;
+  border-radius: 12px;
+  font-size: 17px;
+}
+
+.feel {
+  display: flex;
+  margin-top: 9rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.feed {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.Overtake {
+  height: 584px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.takes {
+  gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-t {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 5px;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.text-k {
+  font-size: 14px;
+  color: #979797;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.text-w {
+  font-size: 35px;
+  font-weight: 600;
+  padding: 60px 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.animated {
+  transition: filter 0.5s ease;
+}
+
+.animated:hover {
+  filter: grayscale(100%) brightness(0.5);
+}
+
+
+.Feels {
+  height: 100vh;
+}
+
+.old {
+  height: 20px;
+}
+
+.text-d {
+  font-size: 34px;
+  font-weight: 600;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.btn {
+  gap: 10px;
+  color: #7B61FF;
+  padding: 15px 5px;
+  background: #F6F4FF;
+  border-radius: 10px;
+  margin-top: 10PX;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.assa {
+  display: flex;
+  padding: 20px 60px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item {
+  height: 456px;
+  width: 323px;
+}
+
+.text-h {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-left: 15px;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.gros {
+  display: flex;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-s {
+  font-size: 16px;
+  color: #979797;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.item-from {
+  gap: 32px;
+  display: flex;
+  margin-top: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-container {
+  height: 380px;
+  width: 316px;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.hoverimg {
+  width: 100%;
+  height: auto;
+  transition: transform 0.5s ease;
+}
+
+.img-container:hover .hoverimg {
+  transform: scale(1.2);
+}
+
+.text-hi {
+  width: 316px;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: "Inria Sans", sans-serif;
+}
+
+.text-kl {
+  width: 316px;
+  font-size: 16px;
+  color: #979797;
+  line-height: 28px;
+  margin-top: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.item-s {
+  gap: 40px;
+  display: flex;
+}
+
+.python {
+  gap: 30px;
+  display: flex;
+  margin-top: 8rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.pyton {
+  height: 100vh;
+}
+
+.text-sd {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Protest Guerrilla", sans-serif;
+}
+
+.Look{
+  height: 100vh;
+}
+.contai{
+  gap: 32px;
+  display: flex;
+  margin-top: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+.masters{
+  width: 316px;
+  height: 420px;
+}
+
+.kosmis{
+   font-size: 19px;
+   font-weight: 600;
+   margin: 5px;
+  font-family: "Inria Sans", sans-serif;
+}
+.buxs{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-ho{
+   font-size: 32px;
+   font-weight: 900;
+   padding: 40px 0px;
+   font-family: "Inria Sans", sans-serif;
+}
+
+.text-ki{
+  width: 548px;
+  font-size: 18px;
+  color: #5B5B5B;
+  line-height: 32px;
+  padding: 30px 0px;
+  font-family: "Inria Sans", sans-serif;  
+}
+.teng{
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer{
+  height: 410px;
+  background: #F9F9F9;
+}
